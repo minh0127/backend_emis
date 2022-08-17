@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0f6JzccNmzn6e+QkEEEBpj8NYheyP8T3gsx7Vks1M3mWLdgkfZliAEzXEC8CxvIK4yJcHC5T8Uzies1PRnqVzQ==",
+  "success": true,
+  "projectFilePath": "D:\\MISA_Fresher\\api\\MISA.Web06.GD\\MISA.Web06.Infrastructure\\MISA.Web06.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\mysqlconnector\\2.1.11\\mysqlconnector.2.1.11.nupkg.sha512"
+  ],
+  "logs": []
+}

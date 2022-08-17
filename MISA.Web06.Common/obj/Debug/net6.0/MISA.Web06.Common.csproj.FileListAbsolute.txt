@@ -1,0 +1,12 @@
+D:\MISA_Fresher\api\MISA.Web06.GD\MISA.Web06.Common\bin\Debug\net6.0\MISA.Web06.Common.deps.json
+D:\MISA_Fresher\api\MISA.Web06.GD\MISA.Web06.Common\bin\Debug\net6.0\MISA.Web06.Common.dll
+D:\MISA_Fresher\api\MISA.Web06.GD\MISA.Web06.Common\bin\Debug\net6.0\MISA.Web06.Common.pdb
+D:\MISA_Fresher\api\MISA.Web06.GD\MISA.Web06.Common\obj\Debug\net6.0\MISA.Web06.Common.csproj.AssemblyReference.cache
+D:\MISA_Fresher\api\MISA.Web06.GD\MISA.Web06.Common\obj\Debug\net6.0\MISA.Web06.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\MISA_Fresher\api\MISA.Web06.GD\MISA.Web06.Common\obj\Debug\net6.0\MISA.Web06.Common.AssemblyInfoInputs.cache
+D:\MISA_Fresher\api\MISA.Web06.GD\MISA.Web06.Common\obj\Debug\net6.0\MISA.Web06.Common.AssemblyInfo.cs
+D:\MISA_Fresher\api\MISA.Web06.GD\MISA.Web06.Common\obj\Debug\net6.0\MISA.Web06.Common.csproj.CoreCompileInputs.cache
+D:\MISA_Fresher\api\MISA.Web06.GD\MISA.Web06.Common\obj\Debug\net6.0\MISA.Web06.Common.dll
+D:\MISA_Fresher\api\MISA.Web06.GD\MISA.Web06.Common\obj\Debug\net6.0\refint\MISA.Web06.Common.dll
+D:\MISA_Fresher\api\MISA.Web06.GD\MISA.Web06.Common\obj\Debug\net6.0\MISA.Web06.Common.pdb
+D:\MISA_Fresher\api\MISA.Web06.GD\MISA.Web06.Common\obj\Debug\net6.0\ref\MISA.Web06.Common.dll
